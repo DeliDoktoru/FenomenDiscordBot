@@ -1,9 +1,9 @@
 # FenomenDiscordBot
-create file auth.json
-{
-"token": "Bot_TOKEN"
-}
+create file auth.json  </br>
+{           </br>
+"token": "Bot_TOKEN"  </br> 
+} </br>
 
-cmd "node start"
-!feno open
-!fenoff close
+cmd "node start" </br>
+!feno open  </br>
+!fenoff close </br>
