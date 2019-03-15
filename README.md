@@ -1,6 +1,6 @@
 # FenomenDiscordBot
-npm install
-also ffmpeg needed
+npm install </br>
+also ffmpeg needed </br>
 create file auth.json  </br>
 {           </br>
 "token": "Bot_TOKEN"  </br> 
